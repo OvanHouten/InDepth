@@ -23,8 +23,10 @@ Abstract Timeline
 - EnderIO
 - Forbidden Magic
 - Fossils Archeology Revival
+- Glenns Gasses
 - Grimoire of Gaia
 - Hardcore Ender Expansion
+- Magical Crops
 - Minefactory Reloaded
 - Reliquary
 - Steves Carts 2
@@ -35,12 +37,14 @@ Abstract Timeline
 - Twilight Forest
 
 ###Planned:
-Magical Crops
 
-###Suggested:
-Ex Astris
-Forestry (them bees tho)
-Biomes o' plenty (might cause too many biomes, we'll see)
+###Suggestions:
+- Ex Nihilo/Ex Astris
+- Forestry (them bees tho)
+- Biomes o' plenty (might cause too many biomes, we'll see)
+- Thermal Expansion
+- Buildcraft
+- Extra Utilities
 
 ## TODO:
 We might want to expand on the modlist and general overiew of the gameplay.
