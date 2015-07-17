@@ -1,171 +1,128 @@
-[17:54:25] [main/INFO]: Setting user: Meastroman
-[17:54:26] [Client thread/INFO]: LWJGL Version: 2.9.1
-[17:54:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Ender IO, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Fossils and Archeology Revival, FMLFileResourcePack:Grimoire of Gaia 3, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Mantle, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: Atum, FMLFileResourcePack:MFR Compat: BackTools, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: Chococraft, FMLFileResourcePack:MFR Compat: ExtraBiomes, FMLFileResourcePack:MFR Compat: Forestry, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: IC2, FMLFileResourcePack:MFR Compat: Mystcraft, FMLFileResourcePack:MFR Compat ProjectRed, FMLFileResourcePack:MFR Compat: Railcraft, FMLFileResourcePack:MFR Compat: Sufficient Biomes, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: Tinkers' Construct, FMLFileResourcePack:MFR Compat: TwilightForest, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Reliquary, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waila, FMLFileResourcePack:Baubles, FMLFileResourcePack:libsandstone
-[17:54:43] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
-[17:54:43] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
-[17:54:43] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
-[17:54:43] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
-[17:54:43] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
-[17:54:43] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
-[17:54:56] [Sound Library Loader/INFO]: Sound engine started
-[17:54:58] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[17:54:59] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
-[17:55:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Ender IO, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Fossils and Archeology Revival, FMLFileResourcePack:Grimoire of Gaia 3, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Mantle, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: Atum, FMLFileResourcePack:MFR Compat: BackTools, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: Chococraft, FMLFileResourcePack:MFR Compat: ExtraBiomes, FMLFileResourcePack:MFR Compat: Forestry, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: IC2, FMLFileResourcePack:MFR Compat: Mystcraft, FMLFileResourcePack:MFR Compat ProjectRed, FMLFileResourcePack:MFR Compat: Railcraft, FMLFileResourcePack:MFR Compat: Sufficient Biomes, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: Tinkers' Construct, FMLFileResourcePack:MFR Compat: TwilightForest, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Reliquary, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waila, FMLFileResourcePack:Baubles, FMLFileResourcePack:libsandstone, FMLFileResourcePack:Carpenter's Blocks Cached Resources
-[17:55:06] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
-[17:55:06] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
-[17:55:06] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
-[17:55:06] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
-[17:55:06] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
-[17:55:06] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
-[17:55:07] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
-[17:55:09] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
-[17:55:09] [Client thread/ERROR]: ########## GL ERROR ##########
-[17:55:09] [Client thread/ERROR]: @ Post startup
-[17:55:09] [Client thread/ERROR]: 1281: Invalid value
-[17:55:09] [Sound Library Loader/INFO]: Sound engine started
-[17:55:19] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[17:55:19] [Server thread/INFO]: Generating keypair
-[17:55:20] [Server thread/INFO]: Preparing start region for level 0
-[17:55:21] [Server thread/INFO]: Changing view distance to 12, from 10
-[17:55:21] [Server thread/INFO]: Meastroman[local:E:83ce5006] logged in with entity id 74 at (-539.9996464023958, 65.0, -85.9925396458915)
-[17:55:21] [Server thread/INFO]: Meastroman joined the game
-[17:55:21] [Client thread/INFO]: [CHAT] [HEE] Ender Compendium key conflicts with Night Vision, please fix the issue in Controls menu.
-[17:55:21] [Thread-21/INFO]: [CHAT] §d [Hardcore Ender Expansion 1.8]§r
-[17:55:22] [Thread-21/INFO]: [CHAT]  Found a new version §a1.8.2§r for Minecraft 1.7.10, released 26 Jun 2015. You are currently 2 versions behind.
-[17:55:22] [Thread-21/INFO]: [CHAT]  §cThe §cversion §cyou §care §cusing §cis §cover §c2 §cmonths §cold §cand §cis §cno §clonger §csupported, §cplease §cupdate §cas §csoon §cas §cpossible.
-[17:55:22] [Thread-21/INFO]: [CHAT] 
-[17:55:22] [Thread-21/INFO]: [CHAT]  §7http://hee.chylex.com/download
-[17:55:32] [Client thread/INFO]: [CHAT] You are running Fossils and Archaeology Revival 1.7.10 Build 7.2.0.
-[17:55:32] [Client thread/INFO]: [CHAT] Forum and support: http://www.minecraftforum.net/topic/1708636-
-[17:55:32] [Client thread/INFO]: [CHAT] Github: https://github.com/FossilsArcheologyRevival/FossilArcheology1.7
-[17:55:39] [Server thread/INFO]: Saving and pausing game...
-[17:55:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:55:39] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:55:39] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[17:55:39] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
-[17:55:39] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[17:55:39] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[17:55:39] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[17:55:43] [Server thread/INFO]: Saving and pausing game...
-[17:55:43] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:55:43] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:55:43] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[17:55:43] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
-[17:55:43] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[17:55:43] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[17:55:43] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[17:55:44] [Server thread/INFO]: Stopping server
-[17:55:44] [Server thread/INFO]: Saving players
-[17:55:44] [Server thread/INFO]: Saving worlds
-[17:55:44] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:55:44] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:55:44] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[17:55:44] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
-[17:55:44] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[17:55:44] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[17:55:44] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[17:55:50] [Client thread/INFO]: Deleting level New World
-[17:55:50] [Client thread/INFO]: Attempt 1...
-[17:55:55] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[17:55:55] [Server thread/INFO]: Generating keypair
-[17:55:55] [Server thread/INFO]: Converting map!
-[17:55:55] [Server thread/INFO]: Scanning folders...
-[17:55:55] [Server thread/INFO]: Total conversion count is 0
-[17:55:55] [Server thread/INFO]: Preparing start region for level 0
-[17:55:56] [Server thread/INFO]: Preparing spawn area: 13%
-[17:55:57] [Server thread/INFO]: Preparing spawn area: 28%
-[17:55:58] [Server thread/INFO]: Preparing spawn area: 46%
-[17:55:59] [Server thread/INFO]: Preparing spawn area: 62%
-[17:56:00] [Server thread/INFO]: Preparing spawn area: 81%
-[17:56:01] [Server thread/INFO]: Preparing spawn area: 99%
-[17:56:01] [Server thread/INFO]: Changing view distance to 12, from 10
-[17:56:01] [Server thread/INFO]: Meastroman[local:E:9c4375b3] logged in with entity id 989 at (47.5, 81.0, 254.5)
-[17:56:01] [Server thread/INFO]: Meastroman joined the game
-[17:56:02] [Server thread/INFO]: [CHAT] [HEE] Ender Compendium key conflicts with Night Vision, please fix the issue in Controls menu.
-[17:56:02] [Client thread/INFO]: [CHAT] You are running Fossils and Archaeology Revival 1.7.10 Build 7.2.0.
-[17:56:02] [Client thread/INFO]: [CHAT] Forum and support: http://www.minecraftforum.net/topic/1708636-
-[17:56:02] [Client thread/INFO]: [CHAT] Github: https://github.com/FossilsArcheologyRevival/FossilArcheology1.7
-[17:56:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2717ms behind, skipping 54 tick(s)
-[17:56:12] [Server thread/INFO]: Meastroman has just earned the achievement [Taking Inventory]
-[17:56:12] [Client thread/INFO]: [CHAT] Meastroman has just earned the achievement [Taking Inventory]
-[17:56:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.endermen.none
-[17:56:40] [Server thread/INFO]: Saving and pausing game...
-[17:56:40] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:56:40] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:56:40] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[17:56:40] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
-[17:56:40] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[17:56:40] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[17:56:40] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[17:56:59] [Client thread/INFO]: [CHAT] You do not have permission to use this command
-[17:57:05] [Server thread/INFO]: Saving and pausing game...
-[17:57:05] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:57:05] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:57:05] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[17:57:05] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
-[17:57:05] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[17:57:05] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[17:57:05] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[17:57:09] [Server thread/INFO]: Saving and pausing game...
-[17:57:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:57:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:57:09] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[17:57:09] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
-[17:57:09] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[17:57:09] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[17:57:09] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[17:57:12] [Server thread/INFO]: Saving and pausing game...
-[17:57:12] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:57:12] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:57:12] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[17:57:12] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
-[17:57:12] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[17:57:12] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[17:57:12] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[17:57:48] [Server thread/INFO]: Saving and pausing game...
-[17:57:48] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:57:48] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:57:48] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[17:57:48] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
-[17:57:48] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[17:57:48] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[17:57:48] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[17:57:49] [Server thread/INFO]: Stopping server
-[17:57:49] [Server thread/INFO]: Saving players
-[17:57:49] [Server thread/INFO]: Saving worlds
-[17:57:49] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:57:49] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:57:49] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[17:57:49] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
-[17:57:49] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[17:57:49] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[17:57:49] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[17:57:55] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[17:57:55] [Server thread/INFO]: Generating keypair
-[17:57:55] [Server thread/INFO]: Preparing start region for level 0
-[17:57:56] [Server thread/INFO]: Changing view distance to 12, from 10
-[17:57:56] [Server thread/INFO]: Meastroman[local:E:131996b7] logged in with entity id 15335 at (80.47380040305889, 71.0, 345.9054371405744)
-[17:57:56] [Server thread/INFO]: Meastroman joined the game
-[17:57:57] [Client thread/INFO]: [CHAT] [HEE] Ender Compendium key conflicts with Night Vision, please fix the issue in Controls menu.
-[17:57:57] [Client thread/INFO]: [CHAT] You are running Fossils and Archaeology Revival 1.7.10 Build 7.2.0.
-[17:57:57] [Client thread/INFO]: [CHAT] Forum and support: http://www.minecraftforum.net/topic/1708636-
-[17:57:57] [Client thread/INFO]: [CHAT] Github: https://github.com/FossilsArcheologyRevival/FossilArcheology1.7
-[17:58:47] [Server thread/INFO]: Saving and pausing game...
-[17:58:47] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:58:47] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:58:47] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[17:58:47] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
-[17:58:47] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[17:58:47] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[17:58:47] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[17:58:49] [Server thread/INFO]: Stopping server
-[17:58:49] [Server thread/INFO]: Saving players
-[17:58:49] [Server thread/INFO]: Saving worlds
-[17:58:49] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:58:49] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:58:49] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[17:58:49] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
-[17:58:49] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[17:58:49] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[17:58:49] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[17:58:51] [Client thread/INFO]: Stopping!
+[18:32:01] [main/INFO]: Setting user: Meastroman
+[18:32:03] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:32:26] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Ender IO, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Fossils and Archeology Revival, FMLFileResourcePack:Glenn's Gases, FMLFileResourcePack:Gases Framework, FMLFileResourcePack:Grimoire of Gaia 3, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Magical Crops, FMLFileResourcePack:Mantle, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: Atum, FMLFileResourcePack:MFR Compat: BackTools, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: Chococraft, FMLFileResourcePack:MFR Compat: ExtraBiomes, FMLFileResourcePack:MFR Compat: Forestry, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: IC2, FMLFileResourcePack:MFR Compat: Mystcraft, FMLFileResourcePack:MFR Compat ProjectRed, FMLFileResourcePack:MFR Compat: Railcraft, FMLFileResourcePack:MFR Compat: Sufficient Biomes, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: Tinkers' Construct, FMLFileResourcePack:MFR Compat: TwilightForest, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Reliquary, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waila, FMLFileResourcePack:Baubles, FMLFileResourcePack:libsandstone
+[18:32:26] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
+[18:32:26] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
+[18:32:26] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
+[18:32:26] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
+[18:32:26] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
+[18:32:26] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
+[18:32:38] [Sound Library Loader/INFO]: Sound engine started
+[18:32:47] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[18:32:51] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[18:33:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Ender IO, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Fossils and Archeology Revival, FMLFileResourcePack:Glenn's Gases, FMLFileResourcePack:Gases Framework, FMLFileResourcePack:Grimoire of Gaia 3, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Magical Crops, FMLFileResourcePack:Mantle, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: Atum, FMLFileResourcePack:MFR Compat: BackTools, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: Chococraft, FMLFileResourcePack:MFR Compat: ExtraBiomes, FMLFileResourcePack:MFR Compat: Forestry, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: IC2, FMLFileResourcePack:MFR Compat: Mystcraft, FMLFileResourcePack:MFR Compat ProjectRed, FMLFileResourcePack:MFR Compat: Railcraft, FMLFileResourcePack:MFR Compat: Sufficient Biomes, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: Tinkers' Construct, FMLFileResourcePack:MFR Compat: TwilightForest, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Reliquary, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waila, FMLFileResourcePack:Baubles, FMLFileResourcePack:libsandstone, FMLFileResourcePack:Carpenter's Blocks Cached Resources
+[18:33:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
+[18:33:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
+[18:33:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
+[18:33:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
+[18:33:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
+[18:33:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/Olaf/Desktop/MultiMC.app/Contents/MacOS/instances/InDepth/minecraft/mods/BloodMagic-1.7.10-1.3.3-4.jar
+[18:33:02] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[18:33:04] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[18:33:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[18:33:04] [Client thread/ERROR]: @ Post startup
+[18:33:04] [Client thread/ERROR]: 1281: Invalid value
+[18:33:04] [Sound Library Loader/INFO]: Sound engine started
+[18:34:16] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:34:16] [Server thread/INFO]: Generating keypair
+[18:34:16] [Server thread/INFO]: Converting map!
+[18:34:16] [Server thread/INFO]: Scanning folders...
+[18:34:16] [Server thread/INFO]: Total conversion count is 0
+[18:34:17] [Server thread/INFO]: Preparing start region for level 0
+[18:34:18] [Server thread/INFO]: Preparing spawn area: 5%
+[18:34:19] [Server thread/INFO]: Preparing spawn area: 6%
+[18:34:20] [Server thread/INFO]: Preparing spawn area: 16%
+[18:34:21] [Server thread/INFO]: Preparing spawn area: 29%
+[18:34:22] [Server thread/INFO]: Preparing spawn area: 41%
+[18:34:23] [Server thread/INFO]: Preparing spawn area: 53%
+[18:34:25] [Server thread/INFO]: Preparing spawn area: 67%
+[18:34:26] [Server thread/INFO]: Preparing spawn area: 81%
+[18:34:27] [Server thread/INFO]: Preparing spawn area: 94%
+[18:34:28] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:34:28] [Server thread/INFO]: Meastroman[local:E:9194feb6] logged in with entity id 222 at (213.5, 67.0, 255.5)
+[18:34:28] [Server thread/INFO]: Meastroman joined the game
+[18:34:29] [Server thread/INFO]: [CHAT] [HEE] Ender Compendium key conflicts with Night Vision, please fix the issue in Controls menu.
+[18:34:29] [Thread-24/INFO]: [CHAT] ?d [Hardcore Ender Expansion 1.8]?r
+[18:34:29] [Thread-24/INFO]: [CHAT]  Found a new version ?a1.8.2?r for Minecraft 1.7.10, released 26 Jun 2015. You are currently 2 versions behind.
+[18:34:29] [Thread-24/INFO]: [CHAT]  ?cThe ?cversion ?cyou ?care ?cusing ?cis ?cover ?c2 ?cmonths ?cold ?cand ?cis ?cno ?clonger ?csupported, ?cplease ?cupdate ?cas ?csoon ?cas ?cpossible.
+[18:34:29] [Thread-24/INFO]: [CHAT] 
+[18:34:29] [Thread-24/INFO]: [CHAT]  ?7http://hee.chylex.com/download
+[18:34:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2887ms behind, skipping 57 tick(s)
+[18:35:17] [Server thread/INFO]: Meastroman was shot by Siren
+[18:35:17] [Client thread/INFO]: [CHAT] Meastroman was shot by Siren
+[18:35:22] [Server thread/INFO]: Meastroman has just earned the achievement [Taking Inventory]
+[18:35:22] [Client thread/INFO]: [CHAT] Meastroman has just earned the achievement [Taking Inventory]
+[18:35:24] [Server thread/INFO]: Saving and pausing game...
+[18:35:24] [Server thread/INFO]: Saving chunks for level 'TEST'/Overworld
+[18:35:24] [Server thread/INFO]: Saving chunks for level 'TEST'/Nether
+[18:35:24] [Server thread/INFO]: Saving chunks for level 'TEST'/Land of Darkness
+[18:35:24] [Server thread/INFO]: Saving chunks for level 'TEST'/Twilight Forest
+[18:35:24] [Server thread/INFO]: Saving chunks for level 'TEST'/Bedrock
+[18:35:24] [Server thread/INFO]: Saving chunks for level 'TEST'/The Outer Lands
+[18:35:24] [Server thread/INFO]: Saving chunks for level 'TEST'/the Ancient Treasure Room
+[18:35:25] [Server thread/INFO]: Stopping server
+[18:35:25] [Server thread/INFO]: Saving players
+[18:35:25] [Server thread/INFO]: Saving worlds
+[18:35:25] [Server thread/INFO]: Saving chunks for level 'TEST'/Overworld
+[18:35:25] [Server thread/INFO]: Saving chunks for level 'TEST'/Nether
+[18:35:25] [Server thread/INFO]: Saving chunks for level 'TEST'/Land of Darkness
+[18:35:25] [Server thread/INFO]: Saving chunks for level 'TEST'/Twilight Forest
+[18:35:25] [Server thread/INFO]: Saving chunks for level 'TEST'/Bedrock
+[18:35:25] [Server thread/INFO]: Saving chunks for level 'TEST'/The Outer Lands
+[18:35:25] [Server thread/INFO]: Saving chunks for level 'TEST'/the Ancient Treasure Room
+[18:35:30] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:35:30] [Server thread/INFO]: Generating keypair
+[18:35:30] [Server thread/INFO]: Preparing start region for level 0
+[18:35:31] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:35:31] [Server thread/INFO]: Meastroman[local:E:ddc25c51] logged in with entity id 12704 at (210.5, 65.0, 249.5)
+[18:35:31] [Server thread/INFO]: Meastroman joined the game
+[18:35:31] [Client thread/INFO]: [CHAT] [HEE] Ender Compendium key conflicts with Night Vision, please fix the issue in Controls menu.
+[18:35:32] [Server thread/INFO]: Saving and pausing game...
+[18:35:32] [Server thread/INFO]: Saving chunks for level 'TEST'/Overworld
+[18:35:32] [Server thread/INFO]: Saving chunks for level 'TEST'/Nether
+[18:35:32] [Server thread/INFO]: Saving chunks for level 'TEST'/Land of Darkness
+[18:35:32] [Server thread/INFO]: Saving chunks for level 'TEST'/Twilight Forest
+[18:35:32] [Server thread/INFO]: Saving chunks for level 'TEST'/Bedrock
+[18:35:32] [Server thread/INFO]: Saving chunks for level 'TEST'/The Outer Lands
+[18:35:32] [Server thread/INFO]: Saving chunks for level 'TEST'/the Ancient Treasure Room
+[18:37:15] [Server thread/INFO]: Meastroman was slain by Naga
+[18:37:15] [Client thread/INFO]: [CHAT] Meastroman was slain by Naga
+[18:37:35] [Server thread/INFO]: Meastroman was slain by Naga
+[18:37:35] [Client thread/INFO]: [CHAT] Meastroman was slain by Naga
+[18:41:33] [Server thread/INFO]: Meastroman starved to death
+[18:41:34] [Client thread/INFO]: [CHAT] Meastroman starved to death
+[18:42:10] [Server thread/INFO]: Saving and pausing game...
+[18:42:10] [Server thread/INFO]: Saving chunks for level 'TEST'/Overworld
+[18:42:10] [Server thread/INFO]: Saving chunks for level 'TEST'/Nether
+[18:42:10] [Server thread/INFO]: Saving chunks for level 'TEST'/Land of Darkness
+[18:42:10] [Server thread/INFO]: Saving chunks for level 'TEST'/Twilight Forest
+[18:42:10] [Server thread/INFO]: Saving chunks for level 'TEST'/Bedrock
+[18:42:10] [Server thread/INFO]: Saving chunks for level 'TEST'/The Outer Lands
+[18:42:10] [Server thread/INFO]: Saving chunks for level 'TEST'/the Ancient Treasure Room
+[18:42:33] [Server thread/INFO]: Saving and pausing game...
+[18:42:33] [Server thread/INFO]: Saving chunks for level 'TEST'/Overworld
+[18:42:33] [Server thread/INFO]: Saving chunks for level 'TEST'/Nether
+[18:42:33] [Server thread/INFO]: Saving chunks for level 'TEST'/Land of Darkness
+[18:42:33] [Server thread/INFO]: Saving chunks for level 'TEST'/Twilight Forest
+[18:42:33] [Server thread/INFO]: Saving chunks for level 'TEST'/Bedrock
+[18:42:33] [Server thread/INFO]: Saving chunks for level 'TEST'/The Outer Lands
+[18:42:33] [Server thread/INFO]: Saving chunks for level 'TEST'/the Ancient Treasure Room
+[18:43:57] [Server thread/INFO]: Saving and pausing game...
+[18:43:57] [Server thread/INFO]: Saving chunks for level 'TEST'/Overworld
+[18:43:57] [Server thread/INFO]: Saving chunks for level 'TEST'/Nether
+[18:43:57] [Server thread/INFO]: Saving chunks for level 'TEST'/Land of Darkness
+[18:43:57] [Server thread/INFO]: Saving chunks for level 'TEST'/Twilight Forest
+[18:43:57] [Server thread/INFO]: Saving chunks for level 'TEST'/Bedrock
+[18:43:57] [Server thread/INFO]: Saving chunks for level 'TEST'/The Outer Lands
+[18:43:57] [Server thread/INFO]: Saving chunks for level 'TEST'/the Ancient Treasure Room
+[18:44:00] [Server thread/INFO]: Stopping server
+[18:44:00] [Server thread/INFO]: Saving players
+[18:44:00] [Server thread/INFO]: Saving worlds
+[18:44:00] [Server thread/INFO]: Saving chunks for level 'TEST'/Overworld
+[18:44:00] [Server thread/INFO]: Saving chunks for level 'TEST'/Nether
+[18:44:00] [Server thread/INFO]: Saving chunks for level 'TEST'/Land of Darkness
+[18:44:00] [Server thread/INFO]: Saving chunks for level 'TEST'/Twilight Forest
+[18:44:00] [Server thread/INFO]: Saving chunks for level 'TEST'/Bedrock
+[18:44:00] [Server thread/INFO]: Saving chunks for level 'TEST'/The Outer Lands
+[18:44:00] [Server thread/INFO]: Saving chunks for level 'TEST'/the Ancient Treasure Room
+[18:44:02] [Client thread/INFO]: Stopping!

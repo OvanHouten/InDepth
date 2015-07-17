@@ -12,6 +12,11 @@ INFO: Adding minetweaker command botaniaBrews
 INFO: Adding minetweaker command lexiconKnowledgeTypes
 INFO: Adding minetweaker command botaniaOrchid
 INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
 INFO: Adding minetweaker command tooltips
 INFO: Adding minetweaker command entities
 INFO: Adding minetweaker command research
@@ -32,6 +37,11 @@ INFO: Removing minetweaker command aspectList
 INFO: Removing minetweaker command research
 INFO: Removing minetweaker command entities
 INFO: Removing minetweaker command tooltips
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
 INFO: Removing minetweaker command mfr
 INFO: Removing minetweaker command botaniaOrchid
 INFO: Removing minetweaker command lexiconKnowledgeTypes
@@ -56,50 +66,11 @@ INFO: Adding minetweaker command botaniaBrews
 INFO: Adding minetweaker command lexiconKnowledgeTypes
 INFO: Adding minetweaker command botaniaOrchid
 INFO: Adding minetweaker command mfr
-INFO: Adding minetweaker command tooltips
-INFO: Adding minetweaker command entities
-INFO: Adding minetweaker command research
-INFO: Adding minetweaker command aspectList
-INFO: Adding minetweaker command materials
-INFO: Adding minetweaker command lexiconCategories
-INFO: Adding minetweaker command lexiconPages
-INFO: Adding minetweaker command botaniaBrews
-INFO: Adding minetweaker command lexiconKnowledgeTypes
-INFO: Adding minetweaker command botaniaOrchid
-INFO: Removing minetweaker command botaniaOrchid
-INFO: Removing minetweaker command lexiconKnowledgeTypes
-INFO: Removing minetweaker command botaniaBrews
-INFO: Removing minetweaker command lexiconPages
-INFO: Removing minetweaker command lexiconCategories
-INFO: Removing minetweaker command materials
-INFO: Removing minetweaker command aspectList
-INFO: Removing minetweaker command research
-INFO: Removing minetweaker command entities
-INFO: Removing minetweaker command tooltips
-INFO: Removing minetweaker command mfr
-INFO: Removing minetweaker command botaniaOrchid
-INFO: Removing minetweaker command lexiconKnowledgeTypes
-INFO: Removing minetweaker command botaniaBrews
-INFO: Removing minetweaker command lexiconPages
-INFO: Removing minetweaker command lexiconCategories
-INFO: Removing minetweaker command materials
-INFO: Removing minetweaker command aspectList
-INFO: Removing minetweaker command research
-INFO: Removing minetweaker command entities
-INFO: Removing minetweaker command tooltips
-INFO: Removing command minetweaker
-INFO: Adding command minetweaker
-INFO: Adding minetweaker command tooltips
-INFO: Adding minetweaker command entities
-INFO: Adding minetweaker command research
-INFO: Adding minetweaker command aspectList
-INFO: Adding minetweaker command materials
-INFO: Adding minetweaker command lexiconCategories
-INFO: Adding minetweaker command lexiconPages
-INFO: Adding minetweaker command botaniaBrews
-INFO: Adding minetweaker command lexiconKnowledgeTypes
-INFO: Adding minetweaker command botaniaOrchid
-INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
 INFO: Adding minetweaker command tooltips
 INFO: Adding minetweaker command entities
 INFO: Adding minetweaker command research
